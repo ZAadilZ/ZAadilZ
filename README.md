@@ -1,7 +1,7 @@
 ![logo](https://github.com/ZAadilZ/ZAadilZ/blob/main/pic.jpg)
 <h1 align="center">Hi 👋, I'm Muhammed Aadil Azeez</h1>
 <h3 align="center">I'm a passionate developer/designer based in India</h3>
-
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 - 🔭 I’m currently working on **Data Science projects**
 
 - 👯 I’m looking to collaborate on **Innovative Ideas**
