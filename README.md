@@ -12,6 +12,12 @@
 
 - ⚡ Fun fact **We often think we are better than everyone!**
 
+-  Can contact me If you need out of the box design ideology.
+
+-  All repositories contain deployed projects with links to check out the working model.
+
+-  Can contact me on mob: 7012134637   
+
 <h3 align="left">Connect with me:</h3>
 
 
