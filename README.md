@@ -1,3 +1,4 @@
+![logo](https://github.com/ZAadilZ/ZAadilZ/blob/main/photo.jpg)
 <h1 align="center">Hi 👋, I'm Muhammed Aadil Azeez</h1>
 <h3 align="center">I'm a passionate developer/designer based in India</h3>
 
